@@ -1,0 +1,11 @@
+{
+  "name": "newproject",
+  "version": "0.0.1",
+  "description": "First self node js api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
